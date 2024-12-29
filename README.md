@@ -1,21 +1,21 @@
-#Crazy Monkey Game
+# Crazy Monkey Game
 This is a fun and engaging game called "Crazy Monkey" built using Python and Pygame. The player controls a monkey that collects fruits while avoiding a lion. The game includes a main menu, a help page, and a scoring system.
 
 1. Features
-  * Player Controls: Move the monkey left, right, and make it jump.
-  * Fruits: Collect bananas and apples to score points.
-  * Enemy: Avoid the lion to stay in the game.
-  * Pause and Resume: Pause the game and resume it later.
-  * Scoring System: Keep track of the score and display it on the screen.
-  * Game Over and Win Conditions: The game ends when the player collides with the lion or reaches 200 points.
+   * Player Controls: Move the monkey left, right, and make it jump.
+   * Fruits: Collect bananas and apples to score points.
+   * Enemy: Avoid the lion to stay in the game.
+   * Pause and Resume: Pause the game and resume it later.
+   * Scoring System: Keep track of the score and display it on the screen.
+   * Game Over and Win Conditions: The game ends when the player collides with the lion or reaches 200 points.
 
 2. Usage
-  * Move Left: Press the left arrow key.
-  * Move Right: Press the right arrow key.
-  * Jump: Press the up arrow key.
-  * Pause: Press the pause button in the game.
-  * Resume: Press the space bar to resume the game.
-  * Exit: Press the escape key to exit the game.
+   * Move Left: Press the left arrow key.
+   * Move Right: Press the right arrow key.
+   * Jump: Press the up arrow key.
+   * Pause: Press the pause button in the game.
+   * Resume: Press the space bar to resume the game.
+   * Exit: Press the escape key to exit the game.
     
 3. Example
     * To start the game:
